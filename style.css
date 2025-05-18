@@ -29,7 +29,6 @@ body {
 }
 
 .container {
-  margin-top: -2rem;
   height: 100%;
 
   display: grid;
